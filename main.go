@@ -667,7 +667,7 @@ func checkAndChangeLightSourceStatus() int {
 }
 
 func showIntro() int {
-	// cls() // Clear screen commented out for debugging reasons
+	cls() // Clear screen commented out for debugging reasons
 	introMessage := `
                  *** Welcome ***
 
