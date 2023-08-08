@@ -603,7 +603,7 @@ func getCommandInput() string {
 
 func commandlineHelp() {
 	fmt.Println(`
-Usage: perlscott.pl [OPTION]... game_data_file
+Usage: GoVerbYourNoun [OPTION]... game_data_file
 Scott Adams adventure game interpreter
 
 -i, --input    Command input file
